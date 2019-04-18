@@ -3,20 +3,20 @@ General interview process for Computer Science new grads
 
 ## Background
 
-I am mater's student at NC State. I had interviewed with multiple companies for Software Developer and Site Reliability Engineer roles. My professional experience in US comprises of a summer full time internship at a startup named **Aporeto** and part time internship of 7 months at **IBM**. Probably I will be working for **AWS** when some of you are reading this article. This article is intended to help minor group of CS grads to help them in their internship experience process.
+I am master's student at NC State. I had interviewed with multiple companies for Software Developer and Site Reliability Engineer roles. My professional experience in US comprises of a summer full time internship at a startup named **Aporeto** and part time internship of 7 months at **IBM**. Probably I will be working for **AWS** when some of you are reading this article. This article is intended to help minor group of CS grads to help them in their internship and full time interview process.
 
 # Resources to prepare from 
 
 Resources that helped me
 
-* Leetcode.com
+* [Leetcode](https://www.leetcode.com)
 * Cracking the coding interview [book](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=dp_ob_title_bk)
-* Pramp - mock interviews
+* [Pramp](https://www.pramp.com/) - mock interviews
 * Daily Coding Problem [blog](https://www.dailycodingproblem.com/)
 
 ## General interview process break down
 
-As far as all the interview process I have seen and heard would comprise of the below 4 types
+As far as all the interview process I have heard and seen would comprise of the any of below 4 types of rounds
 
 ### Quick tour
 
@@ -29,7 +29,7 @@ As far as all the interview process I have seen and heard would comprise of the 
   
 ### Detailed tour
 
-1. - [ ] Behavioral
+1. **Behavioral -> ** 
     These are general HR questions. Their importance in interviews vary from company to company. For example Amazon has greater focus on 14 leadership principles.
     Sample Questions
     1. Why this company? 
@@ -40,7 +40,7 @@ As far as all the interview process I have seen and heard would comprise of the 
     
     This and most of the behavioral questions should have a references to personal experiences, thinking and interests. Make sure to spend some time in advance, definetly rewarding. Be prepared to answer followup questions, from my experience I feel big companies like Amazon, LinkedIn, Apple, Twitter, Uber attached a great importance to these kind of questions.
 
-1. - [ ] Technical
+1. **Technical -> **
     This generally is asked to check your breadth and depth in a technology. Heavily focused for few roles like SRE, DevOps engineers. Look for overlapping technologies for the role and your resume and focus on them if you have an interview soon.
     
     Example questions
@@ -69,7 +69,10 @@ As far as all the interview process I have seen and heard would comprise of the 
       https://blog.balthazar-rouberol.com/preparing-the-sre-interview <br>
       https://syedali.net/engineer-interview-questions/
 
-
+1. **Coding ->**
+   1. Leetcode 
+   
+   Assuming you have already done 
 
 Few more things that helped me,
 
