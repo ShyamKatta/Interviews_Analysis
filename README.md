@@ -73,12 +73,12 @@ As far as all the interview process I have heard and seen would comprise of the 
 
    1. Cracking the coding interview
    
-   I feel this is the initial point for any programmer, this book covers almost everything needed for the technical interview.
+      I feel this is the initial point for any programmer, this book covers almost everything needed for the technical interview.
    
    1. Leetcode 
    
-   From my experience I personally feel, it is better to solve leetcode by topics. For example, pick stack and solve all the questions later pick other topic such as trees or linkedlist etc. Further, in each topic there would be few models, once you identify the idea of a problem you should be good enough to identify the idea and solve it for similar problem.
-   For example solving daily temperatures gives you idea of how to use increasing or decreasing stack, using the same idea you can solve largest rectangle in histogram, next greater element and many more. Even though you were able to solve the problem, I suggest go to discussions and spend some time analysing other alternative solutions and better time and space complexity 
+      From my experience I personally feel, it is better to solve leetcode by topics. For example, pick stack and solve all the questions later pick other topic such as trees or linkedlist etc. Further, in each topic there would be few models, once you identify the idea of a problem you should be good enough to identify the idea and solve it for similar problem.
+      For example solving daily temperatures gives you idea of how to use increasing or decreasing stack, using the same idea you can solve largest rectangle in histogram, next greater element and many more. Even though you were able to solve the problem, I suggest go to discussions and spend some time analysing other alternative solutions and better time and space complexity 
    
    
    There is no good number in solving the leetcode questions, my friends were able to cracked Google by solving 150, 200, 300. It depends on how many unique Idea problems you were able to solve and how good are you in applying the ideas to the new problems you encounter.
@@ -88,21 +88,21 @@ As far as all the interview process I have heard and seen would comprise of the 
 
    1. **System Design**
    
-   *Ultimate Guide* - https://github.com/donnemartin/system-design-primer
+      *Ultimate Guide* - https://github.com/donnemartin/system-design-primer
+
+      Few links <br>
+      https://gist.github.com/vasanthk/485d1c25737e8e72759f <br>
+      https://www.interviewbit.com/courses/system-design/ <br>
+      https://github.com/yangshun/tech-interview-handbook/tree/master/design <br>
+      https://github.com/shashank88/system_design 
    
-   Few links <br>
-   https://gist.github.com/vasanthk/485d1c25737e8e72759f <br>
-   https://www.interviewbit.com/courses/system-design/ <br>
-   https://github.com/yangshun/tech-interview-handbook/tree/master/design <br>
-   https://github.com/shashank88/system_design 
-   
-   Many companies would have a system design rounds besides coding rounds when you interview for full time positions. I have seen Vmware, LinkedIn, Apple, Goldman Sachs given bit priority to system design from my experience.
+      Many companies would have a system design rounds besides coding rounds when you interview for full time positions. I have seen Vmware, LinkedIn, Apple, Goldman Sachs given bit priority to system design from my experience.
    
    1. **Object Oriented Design**
    
-   I had this from Cracking the coding interview and I felt it is good enough. Follow the 5 steps mentioned in the book and solve few questions from the book.
+      I had this from Cracking the coding interview and I felt it is good enough. Follow the 5 steps mentioned in the book and solve few questions from the book.
    
-   Less popular in interviews compared to system design and coding. From my experience Amazon, IBM had these in their interview process.
+      Less popular in interviews compared to system design and coding. From my experience Amazon, IBM had these in their interview process.
 
 ## Final things
 
@@ -112,4 +112,4 @@ To get a better overview of the interview experience, I would suggest give some 
 
 Always good to ask the recruiter, or previous interviewees the type of interviews for the role. Which help you focus and narrow down your areas of preperation.
 
-These are just my 2 cents of interview process from me and my peer experience. Be prepared to get some surprise technical rounds.
+These are just my 2 cents of interview process from technical dimension of me and my peer experience. Be prepared to get some surprise technical rounds.
