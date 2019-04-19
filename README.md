@@ -1,4 +1,4 @@
-# Interviews_Analysis - read time - 20 min
+# Interviews_Analysis - read time - 15 min
 General interview process for Computer Science new grads
 
 ## Background
@@ -86,13 +86,30 @@ As far as all the interview process I have heard and seen would comprise of the 
   
 1. **Design ->**
 
-   1. System Design
+   1. **System Design**
+   
+   *Ultimate Guide* - https://github.com/donnemartin/system-design-primer
+   
+   Few links <br>
+   https://gist.github.com/vasanthk/485d1c25737e8e72759f <br>
+   https://www.interviewbit.com/courses/system-design/ <br>
+   https://github.com/yangshun/tech-interview-handbook/tree/master/design <br>
+   https://github.com/shashank88/system_design 
+   
+   Many companies would have a system design rounds besides coding rounds when you interview for full time positions. I have seen Vmware, LinkedIn, Apple, Goldman Sachs given bit priority to system design from my experience.
+   
+   1. **Object Oriented Design**
+   
+   I had this from Cracking the coding interview and I felt it is good enough. Follow the 5 steps mentioned in the book and solve few questions from the book.
+   
+   Less popular in interviews compared to system design and coding. From my experience Amazon, IBM had these in their interview process.
 
-
-
+## Final things
 
 Few more things that helped me,
 
 To get a better overview of the interview experience, I would suggest give some mock interviews in Leetcode, pramp or interviewbit whicever you feel comfortable.
 
 Always good to ask the recruiter, or previous interviewees the type of interviews for the role. Which help you focus and narrow down your areas of preperation.
+
+These are just my 2 cents of interview process from me and my peer experience. Be prepared to get some surprise technical rounds.
